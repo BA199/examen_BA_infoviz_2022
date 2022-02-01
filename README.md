@@ -13,4 +13,7 @@ Par ailleurs, dans une démarche comparative des données, j'ai un peu travaill�
 ``<iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbXSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe> ```  
 
 - Explication  
-Dans cette carte j'ai essayé de représenté les salles de cinéma à travers de leur situation géographique en Ile-de-France. Ici, la situation géographique est établie par trois (3) zones : *Paris*, *la Petite couronne* et *la Grande couronne*. Ainsi, les marqueurs en bleu representent les établissemnets situés à Paris (75), ceux en vert représentent les salles qui sont localisées sur la Grande couronne et enfin les marqueurs en violet sont ceux de la Petite couronne.
+Dans cette carte j'ai essayé de représenté les salles de cinéma à travers de leur situation géographique en Ile-de-France. Ici, la situation géographique est établie par trois (3) zones : *Paris*, *la Petite couronne* et *la Grande couronne*. Ainsi, les marqueurs en bleu representent les établissemnets situés à Paris (75), ceux en vert représentent les salles qui sont localisées sur la Grande couronne et enfin les marqueurs en violet sont ceux de la Petite couronne.  
+
+###Visualisation   
+![Part de marché des films pour les cinémas localisés en Ile-de-France](https://example.com/bild.jpg)
