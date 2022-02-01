@@ -10,5 +10,6 @@ Par ailleurs, dans une démarche comparative des données, j'ai un peu travaill�
 ******
 ### Visualisation des salles de cinéma en Ile-de-France    
 
-```<iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/sallescinematographiques_iledefrance/?&static=false&scrollWheelZoom=false"></iframe>
+```
+<iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/sallescinematographiques_iledefrance/?&static=false&scrollWheelZoom=false"></iframe>
 ```
