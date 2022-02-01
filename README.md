@@ -9,5 +9,9 @@ Ce jeu de donnée est disponible sur le portail opendata du Ministère de la cul
 Par ailleurs, dans une démarche comparative des données, j'ai un peu travaillé aussi sur un autre jeu de donné traitant uniquement les établissements cinématographiques se trouvant en Ile-de-France. Ce dernier est disponible sur le portail opendata de la région [les salles de cinéma en Ile-de-France ](https://data.iledefrance.fr/explore/dataset/les_salles_de_cinemas_en_ile-de-france/information/?location=10,49.07117,2.34764&basemap=jawg.streets)   
 ******
 ### Visualisation des salles de cinéma en Ile-de-France    
-- Aperçu des salles de cinéma en île-de-France selon leur situation géographique
-<iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbXSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
+- Aperçu des salles de cinéma en île-de-France selon leur situation géographique  
+
+<iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbXSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>   
+
+- Explication  
+Dans cette carte j'ai essayé de représenté les salles de cinéma à travers de leur situation géographique en Ile-de-France. Ici, la situation géographique est établie par trois (3) zones : *Paris*, *la Petite couronne* et *la Grande couronne*. Ainsi, les marqueurs en bleu representent les établissemnets situés à Paris (75), ceux en vert représentent les salles qui sont localisées sur la Grande couronne et enfin les marqueurs en violet sont ceux de la Petite couronne.
