@@ -8,8 +8,9 @@ De prime abord, il convient de noter que ce travail a été réalisé à l'aide 
  En outre, j'ai beaucoup joué sur le filtrage de ce fichier afin de pouvoir travailler sur les données d'une région en l'occurence celles des établissements se trouvant en Ile-de-France. En effet, la majeure partie de mon travail s'est concentré sur cette région.  </div> 
 Ce jeu de donnée est disponible sur le portail opendata du Ministère de la culture [Géolocalisation des établissements cinématographiques en France](https://data.culture.gouv.fr/explore/dataset/etablissements-cinematographiques/information/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQ09VTlQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjOGRhMGNiIn1dLCJ4QXhpcyI6InJlZ2lvbl9hZG1pbmlzdHJhdGl2ZSIsIm1heHBvaW50cyI6NTAsInNvcnQiOiIiLCJjb25maWciOnsiZGF0YXNldCI6ImV0YWJsaXNzZW1lbnRzLWNpbmVtYXRvZ3JhcGhpcXVlcyIsIm9wdGlvbnMiOnt9fX1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D&location=5,46.53754,2.40395)  
 Par ailleurs, dans une démarche comparative des données, j'ai un peu travaillé aussi sur un autre jeu de donné traitant uniquement les établissements cinématographiques se trouvant en Ile-de-France. Ce dernier est disponible sur le portail opendata de la région [les salles de cinéma en Ile-de-France ](https://data.iledefrance.fr/explore/dataset/les_salles_de_cinemas_en_ile-de-france/information/?location=10,49.07117,2.34764&basemap=jawg.streets)   
-**Outils utilisés** : Opendatasoft, Palladio, Rawgraph, OpenRefine.
-----
+
+**Outils utilisés** : Opendatasoft, Palladio, Rawgraph, OpenRefine.      
+
 ### Visualisation avec Opendatasoft des salles de cinéma en Ile-de-France    
 - **Aperçu des salles de cinéma en île-de-France selon leur situation géographique**   
  
