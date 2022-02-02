@@ -13,9 +13,16 @@ Par ailleurs, dans une démarche comparative des données, j'ai un peu travaill�
  
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/sallescinematographiques_iledefrance/?&static=false&scrollWheelZoom=false"></iframe>   
 
-- **Explication et Analyse**   
+- **Graphique sur le nombre d'établissemnts par département de la région**   
 
-Dans cette carte j'ai essayé de représenter les salles de cinéma à travers leur situation géographique en Ile-de-France. Ici, la situation géographique est établie par trois (3) zones : *Paris*, *la Petite couronne* et *la Grande couronne*. Ainsi, les marqueurs en bleu représentent les établissemnets situés à Paris (75), ceux en vert représentent les salles qui sont localisées sur la Grande couronne et enfin les marqueurs en violet sont ceux de la Petite couronne. L'objectif dans cette visulaisation est de montrer la répartion de ces établissements dans la région. De ce fait, on peut voir à première vue qu'ils sont plus présents dans Paris (75).
+<iframe src="https://data.opendatasoft.com/chart/embed/sallesdecinemapardepartement_ile-de-france/?&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>   
+
+- **Explication et Analyse**   
+<div style="text-align: justify">
+Dans cette datavisualisation, avec la carte, j'ai éssayé de représenter les salles de cinéma à travers leur situation géographique en Ile-de-France. Ici, la situation géographique est établie par trois (3) zones : *Paris*, *la Petite couronne* et *la Grande couronne*. Ainsi, les marqueurs en bleu représentent les établissemnets situés à Paris (75), ceux en vert représentent les salles qui sont localisées sur la Grande couronne et enfin les marqueurs en violet sont ceux de la Petite couronne. L'objectif ici était donc de montrer la répartion de ces établissements au niveau de la région.    
+Pour le graphique, le but était d'avoir des chiffres sur la répartion de ces établissements au niveau départemental. Ainsi, on peut voir le département de Paris (75) en tête avec 78 établissements sur les 310 présents dans la région, vient ensuite le département des Hauts-de-Seine (92) avec 42 salles. Le département de Val-d'Oise(95) dispose le plus faible nombre d'établissements avec 28 salles.   
+ </div>
+
 
 ### Visualisation sur le nombre d'établissements cinématographiques français   
 - **Graphique montront le nombre des établissments par région**   
@@ -24,10 +31,10 @@ Dans cette carte j'ai essayé de représenter les salles de cinéma à travers l
 
 - **Explication et Analyse**   
 
+Cette graphique a été réalisée sur Opendatasoft afin de ressortir les informations sur le nombre d'établissemnts cinématographiques à l'échelle nationale. A cet éffet, on peut voir que c'est la région d'Auverge-Rhône-Alpes qui occupe la première place avec ses 323 établissements, suivi de l'Ile-de-France avec 310 établissements, puis la Nouvelle-Aquitaine avec 228 établissements. La Corse est la région ayant le moins d'établissements avec 17 établissemnts.  
 
-
-### Cartographie des établissements cinématographiques dit Multiplexe dans toute la France   
-- **Aperçu des multplexes localisées en France   
+### Cartographie des établissements dits Multiplexe dans toute la France   
+- **Aperçu des multplexes localisées en France**   
 
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/cinemamultiplex_france/?&static=false&scrollWheelZoom=false"></iframe>   
 
