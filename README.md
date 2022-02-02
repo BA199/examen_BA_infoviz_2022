@@ -71,7 +71,7 @@ Cette visualisation a été faite sur Opendatasoft où le but est de pouvoir loc
    
    Cette visualisation a été réalisée sur Rawgraphs, l'objectif est de montrer la part de marché de trois (3) types de films (français, américains et européens) en 2020 dans le cinéma français. Ainsi, naturellement c'est les films français qui viennent en tête, suivi des films américains et les films européens. 
    
-   ### Traitement OpenRefine  
+   ### Traitement OpenRefine    
    - **Explication de la démarche**   
 
 J'ai procédé à quelques traitement du fichier de mon jeu de donnée sur Openrefine. Ainsi, j'ai renommé quelques colonnes et puis j'ai rajouté également une colonne sur les noms de départements car y'avait que les numéros de département qui figuraient dans le jeu de données.   
