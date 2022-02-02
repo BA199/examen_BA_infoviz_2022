@@ -30,8 +30,9 @@ Pour le graphique, le but était d'avoir des chiffres sur la répartion de ces �
 <iframe src="https://data.opendatasoft.com/chart/embed/etablissementscinematographiques_par_region/?&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>    
 
 - **Explication et Analyse**   
-
-Cette graphique a été réalisée sur Opendatasoft afin de ressortir les informations sur le nombre d'établissemnts cinématographiques à l'échelle nationale. A cet éffet, on peut voir que c'est la région d'Auverge-Rhône-Alpes qui occupe la première place avec ses 323 établissements, suivi de l'Ile-de-France avec 310 établissements, puis la Nouvelle-Aquitaine avec 228 établissements. La Corse est la région ayant le moins d'établissements avec 17 établissemnts.  
+<div style="text-align: justify">
+Cette graphique a été réalisée sur Opendatasoft afin de ressortir les informations sur le nombre d'établissemnts cinématographiques à l'échelle nationale. A cet éffet, on peut voir que c'est la région d'Auverge-Rhône-Alpes qui occupe la première place avec ses 323 établissements, suivi de l'Ile-de-France avec 310 établissements, puis la Nouvelle-Aquitaine avec 228 établissements. La Corse est la région ayant le moins d'établissements avec 17 établissemnts. 
+  </div>
 
 ### Cartographie des établissements dits Multiplexe dans toute la France   
 - **Aperçu des multplexes localisées en France**   
@@ -39,8 +40,9 @@ Cette graphique a été réalisée sur Opendatasoft afin de ressortir les inform
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/cinemamultiplex_france/?&static=false&scrollWheelZoom=false"></iframe>   
 
 - **Explication et Analyse**   
-
-Cette visualisation a été faite sur Opendatasoft où le but est de pouvoir localiser les établissements cinématographiques disposant plus de 8 écrans (multiplexe) et ce dans toute la France. De ce fait on peut se faire également une idée sur la région hébergeant plus d'établissements multiplexe. Ainsi, on peut nettement voir que c'est la région d'Ile-de-France qui rafle la mise, ce qu'on peut qualifier de paradoxe dans la mesure où la région est à la deuxiéme position dérrière Auverge-Rhône-Alpes en terme de nombre d'établissements cinématographiques.
+<div style="text-align: justify">
+Cette visualisation a été faite sur Opendatasoft où le but est de pouvoir localiser les établissements cinématographiques disposant plus de 8 écrans (multiplexe) et ce dans toute la France. De ce fait on peut se faire également une idée sur la région hébergeant plus d'établissements multiplexe. Ainsi, on peut nettement voir que c'est la région d'Ile-de-France qui rafle la mise, ce qu'on peut qualifier de paradoxe dans la mesure où la région est à la deuxiéme position dérrière Auverge-Rhône-Alpes en terme de nombre d'établissements cinématographiques.   
+   </div>
 
 
 
