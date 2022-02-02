@@ -7,18 +7,21 @@ Ainsi, nous nous sommes concentrés à visualiser les données tellesque le nomb
 De prime abord, il convient de noter que ce travail a été réalisé à l'aide d'un jeu de données sur les établissements cinématographiques en France. En outre, j'ai beaucoup joué sur le filtrage de ce fichier afin de pouvoir travailler sur les données d'une région en l'occurence celles des établissements se trouvant en Ile-de-France. En effet, la majeure partie de mon travail s'est concentré sur cette région.  
 Ce jeu de donnée est disponible sur le portail opendata du Ministère de la culture [Géolocalisation des établissements cinématographiques en France](https://data.culture.gouv.fr/explore/dataset/etablissements-cinematographiques/information/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQ09VTlQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjOGRhMGNiIn1dLCJ4QXhpcyI6InJlZ2lvbl9hZG1pbmlzdHJhdGl2ZSIsIm1heHBvaW50cyI6NTAsInNvcnQiOiIiLCJjb25maWciOnsiZGF0YXNldCI6ImV0YWJsaXNzZW1lbnRzLWNpbmVtYXRvZ3JhcGhpcXVlcyIsIm9wdGlvbnMiOnt9fX1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D&location=5,46.53754,2.40395)  
 Par ailleurs, dans une démarche comparative des données, j'ai un peu travaillé aussi sur un autre jeu de donné traitant uniquement les établissements cinématographiques se trouvant en Ile-de-France. Ce dernier est disponible sur le portail opendata de la région [les salles de cinéma en Ile-de-France ](https://data.iledefrance.fr/explore/dataset/les_salles_de_cinemas_en_ile-de-france/information/?location=10,49.07117,2.34764&basemap=jawg.streets)   
-******
-### Visualisation des salles de cinéma en Ile-de-France    
-- Aperçu des salles de cinéma en île-de-France selon leur situation géographique  
+****
+### Visualisation avec Opendatasoft des salles de cinéma en Ile-de-France    
+- **Aperçu des salles de cinéma en île-de-France selon leur situation géographique 
  
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/sallescinematographiques_iledefrance/?&static=false&scrollWheelZoom=false"></iframe>   
 
-- Explication   
+- **Explication   
 
 Dans cette carte j'ai essayé de représenté les salles de cinéma à travers de leur situation géographique en Ile-de-France. Ici, la situation géographique est établie par trois (3) zones : *Paris*, *la Petite couronne* et *la Grande couronne*. Ainsi, les marqueurs en bleu representent les établissemnets situés à Paris (75), ceux en vert représentent les salles qui sont localisées sur la Grande couronne et enfin les marqueurs en violet sont ceux de la Petite couronne.  
 
-### Visualisation part de marché des films en 2020
+### Cartographie des établissements cinématographiques dit Multiplexe dans toute la France   
+- **Aperçu des multplexes localisées en France   
 
-![Part de marché des films pour les cinémas localisés en Ile-de-France](https://github.com/BA199/examen_BA_infoviz_2022/blob/main/PdmFilms_2020_IDF.jpg)   
+<iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/cinemamultiplex_france/?&static=false&scrollWheelZoom=false"></iframe>
+
+
 
   
