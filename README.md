@@ -28,7 +28,7 @@ Pour le graphique, le but était d'avoir des chiffres sur la répartion de ces �
 
 
 ### Visualisation sur le nombre d'établissements cinématographiques français   
-- **Graphique montront le nombre des établissments par région**   
+- **Graphique montrant le nombre des établissments par région**   
 
 <iframe src="https://data.opendatasoft.com/chart/embed/etablissementscinematographiques_par_region/?&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>    
 
