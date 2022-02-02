@@ -9,18 +9,33 @@ Ce jeu de donnée est disponible sur le portail opendata du Ministère de la cul
 Par ailleurs, dans une démarche comparative des données, j'ai un peu travaillé aussi sur un autre jeu de donné traitant uniquement les établissements cinématographiques se trouvant en Ile-de-France. Ce dernier est disponible sur le portail opendata de la région [les salles de cinéma en Ile-de-France ](https://data.iledefrance.fr/explore/dataset/les_salles_de_cinemas_en_ile-de-france/information/?location=10,49.07117,2.34764&basemap=jawg.streets)   
 ****
 ### Visualisation avec Opendatasoft des salles de cinéma en Ile-de-France    
-- **Aperçu des salles de cinéma en île-de-France selon leur situation géographique 
+- **Aperçu des salles de cinéma en île-de-France selon leur situation géographique** 
  
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/sallescinematographiques_iledefrance/?&static=false&scrollWheelZoom=false"></iframe>   
 
-- **Explication   
+- **Explication et Analyse**   
 
-Dans cette carte j'ai essayé de représenté les salles de cinéma à travers de leur situation géographique en Ile-de-France. Ici, la situation géographique est établie par trois (3) zones : *Paris*, *la Petite couronne* et *la Grande couronne*. Ainsi, les marqueurs en bleu representent les établissemnets situés à Paris (75), ceux en vert représentent les salles qui sont localisées sur la Grande couronne et enfin les marqueurs en violet sont ceux de la Petite couronne.  
+Dans cette carte j'ai essayé de représenter les salles de cinéma à travers leur situation géographique en Ile-de-France. Ici, la situation géographique est établie par trois (3) zones : *Paris*, *la Petite couronne* et *la Grande couronne*. Ainsi, les marqueurs en bleu représentent les établissemnets situés à Paris (75), ceux en vert représentent les salles qui sont localisées sur la Grande couronne et enfin les marqueurs en violet sont ceux de la Petite couronne. L'objectif dans cette visulaisation est de montrer la répartion de ces établissements dans la région. De ce fait, on peut voir à première vue qu'ils sont plus présents dans Paris (75).
+
+### Visualisation sur le nombre d'établissements cinématographiques français   
+- **Graphique montront le nombre des établissments par région**   
+
+<iframe src="https://data.opendatasoft.com/chart/embed/etablissementscinematographiques_par_region/?&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>    
+
+- **Explication et Analyse**   
+
+
 
 ### Cartographie des établissements cinématographiques dit Multiplexe dans toute la France   
 - **Aperçu des multplexes localisées en France   
 
-<iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/cinemamultiplex_france/?&static=false&scrollWheelZoom=false"></iframe>
+<iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/cinemamultiplex_france/?&static=false&scrollWheelZoom=false"></iframe>   
+
+- **Explication et Analyse**   
+
+Cette visualisation a été faite sur Opendatasoft où le but est de pouvoir localiser les établissements cinématographiques disposant plus de 8 écrans (multiplexe) et ce dans toute la France. De ce fait on peut se faire également une idée sur la région hébergeant plus d'établissements multiplexe. Ainsi, on peut nettement voir que c'est la région d'Ile-de-France qui rafle la mise, ce qu'on peut qualifier de paradoxe dans la mesure où la région est à la deuxiéme position dérrière Auverge-Rhône-Alpes en terme de nombre d'établissements cinématographiques.
+
+
 
 
 
